@@ -153,7 +153,7 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 
    ```bash
    git clone [https://github.com/blocklinklabs/aura3.0.git](https://github.com/Ishika1323/MindSpace_3.0.git)
-   cd aura3.0
+   cd mindSpace3.0
    npm install
    ```
 
