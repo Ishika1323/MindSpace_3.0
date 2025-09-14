@@ -223,14 +223,6 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 - Advanced analytics
 - Expanded integrations
 
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE)
-
 ## 🌟 Acknowledgments
 
 - Sonic
