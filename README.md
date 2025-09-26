@@ -1,4 +1,4 @@
-# Aura3.0: AI-Powered Mental Health Support on Sonic 🧠⛓️
+# MindSpace3.0: AI-Powered Mental Health Support on Sonic 🧠⛓️
 
 [![Sonic Token](https://img.shields.io/badge/Sonic-Integration-purple.svg)]()
 [![Zerepy](https://img.shields.io/badge/Zerepy-AI_Agent-blue.svg)]()
@@ -152,8 +152,8 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 1. **Clone & Install**
 
    ```bash
-   git clone https://github.com/blocklinklabs/aura3.0.git
-   cd aura3.0
+   git clone https://github.com/Ishika1323/MindSpace_3.0.git
+   cd mindSpace3.0
    npm install
    ```
 
